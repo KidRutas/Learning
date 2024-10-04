@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # This is me learning how different
 # Data Structures work
 
@@ -35,3 +36,6 @@
 #  Lookup: Retrieve a value by key.
 #  Keys: Get all keys in the dictionary.
 #  Values: Get all values in the dictionary.
+=======
+Just learning as Usual
+>>>>>>> b7084718c8670aa09cce33847b432e39f074b481
