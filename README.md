@@ -1,6 +1,5 @@
-<<<<<<< HEAD
-# This is me learning how different
-# Data Structures work
+This is me learning how different
+Data Structures work
 
 # Array/List
 #   Definition: A list is an ordered collection of elements, 
