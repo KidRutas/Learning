@@ -1,1 +1,1 @@
-ECHO is on.
+Just learning as Usual
